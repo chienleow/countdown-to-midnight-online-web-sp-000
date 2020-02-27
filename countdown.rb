@@ -7,5 +7,5 @@ def countdown
   end
   
   until number == 10
-  puts 
+  puts "HAPPY NEW YEAR!"
 end
