@@ -8,4 +8,5 @@ def countdown
   
   until number == 10
   puts "HAPPY NEW YEAR!"
+  end
 end
